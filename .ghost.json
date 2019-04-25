@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://www.sungz.com",
+    "contentApiKey": "311e3705eb87f6f3bab24e148a"
+  },
+  "production": {
+    "apiUrl": "https://www.sungz.com",
+    "contentApiKey": "311e3705eb87f6f3bab24e148a"
+  }
+}
